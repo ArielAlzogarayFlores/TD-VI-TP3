@@ -1,6 +1,6 @@
 # TD VI — Trabajo Práctico N°3
 
-Este repositorio contiene todo el código fuente correspondiente al *Trabajo Práctico N°3* de la materia de *TD VI: Inteligencia Artificial*. El dataset usado es la versión RGB de **EuroSAT**, un conjunto de 27.000 imágenes satelitales Sentinel-2 etiquetadas en 10 clases de uso y cobertura de suelo, disponible en el siguiente [enlace](https://github.com/phelber/EuroSAT).
+Este repositorio contiene todo el código fuente correspondiente al *Trabajo Práctico N°3* de la materia de *TD VI: Inteligencia Artificial*. El dataset usado es la versión RGB de **EuroSAT**.
 
 El trabajo aborda la clasificación de estas imágenes mediante redes neuronales convolucionales. Se entrena desde cero una arquitectura propia y se la compara contra un esquema de *transfer learning* sobre ResNet18 preentrenada en ImageNet.
 
